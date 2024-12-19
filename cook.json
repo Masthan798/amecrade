@@ -1,0 +1,34 @@
+[
+    {
+        "img":"http://www.omnifood.net/resources/images/2.jpg",
+        "items":"10% OFF...",
+        "title":"Margherita Pizza",
+        "desc":"An Italian classic made with basil, tomatoes, and mozzarella cheese pizzaa"
+        
+    },
+    {
+        "img":"http://www.omnifood.net/resources/images/7.jpg",
+        "items":"ITEMS AT...",
+        "title":"Bean Burger",
+        "desc":"Saltine crackers, worcestershire sauce, ground chuck, milk, egg"
+        
+    },
+    {
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQui5wk-EweAzNP_n8flAx5JeDqj80UXxlJEQ&s",
+        "items":"40% OFF..",
+        "title":"Hyderabadi Biryani",
+        "desc":"Fried onions, basmati rice, biryani masala, biryani masala"
+        
+    },
+    {
+        "img":"https://www.hyderabadiruchulu.com/wp-content/uploads/2020/06/veg-haleem.jpg",
+        "items":"ITEMS AT...",
+        "title":"Mutton Haleem",
+        "desc":"Moong dal, masoor dal, chana dal, haleem, whole wheat kernels"
+        
+    }
+    
+    
+    
+
+]
